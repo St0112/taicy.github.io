@@ -1,0 +1,115 @@
+#title {
+    position: absolute;
+    top: 50px;
+    left: 490px;
+    color: azure;
+}
+
+#price1 {
+    position: absolute;
+    top: 200px;
+    left: 160px;
+}
+
+#price2 {
+    position: absolute;
+    top: 200px;
+    left: 350px;
+}
+
+#price3 {
+    position: absolute;
+    top: 200px;
+    left: 780px;
+}
+
+#price4 {
+    position: absolute;
+    top: 200px;
+    left: 990px;
+
+}
+
+#img1 {
+position: absolute;
+top: 245px;
+left: 150px;
+height: 60px;
+}
+
+#img2 {
+    position: absolute;
+    top: 245px;
+    left: 340px;
+    height: 60px;
+}
+
+#img3 {
+    position: absolute;
+    top: 245px;
+    left: 780px;
+    height: 60px;
+}
+
+#img4 {
+    position: absolute;
+    top: 245px;
+    left: 990px;
+    height: 60px;
+}
+
+#text-1 {
+    position: absolute;
+    top: 295px;
+    left: 150px;
+}
+
+#text-2 {
+    position: absolute;
+    top: 295px;
+    left: 340px;
+}
+
+#text-3 {
+    position: absolute;
+    top: 295px;
+    left: 780px;
+}
+
+#text-4 {
+    position: absolute;
+    top: 295px;
+    left: 990px;
+}
+
+#boton-1 {
+    position: absolute;
+    top: 340px;
+    left: 200px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(51, 53, 160);
+}
+
+#boton-2 {
+    position: absolute;
+    top: 340px;
+    left: 390px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(51, 53, 160);
+}
+
+#boton-3 {
+    position: absolute;
+    top: 340px;
+    left: 830px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(51, 53, 160);
+}
+
+#boton-4 {
+    position: absolute;
+    top: 340px;
+    left: 1040px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(51, 53, 160);
+}
